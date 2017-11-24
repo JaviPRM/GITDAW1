@@ -6,7 +6,7 @@ public class ClaseDAW1 {
 		// TODO Cada estudiante añadirá su nombre
 		String profesor = "Luis de Blas";
 		
-		
+		String al01 = "Alumno";
 	}
 
 }
